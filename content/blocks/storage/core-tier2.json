@@ -1,6 +1,6 @@
 {
   "type": "CoreBlock",
-  "name": "Core: Tier 1",
+  "name": "Core: Tier 2",
   "description": "Accelerator core.",
   "size": 5,
   "researchCostMultiplier": 0.5,

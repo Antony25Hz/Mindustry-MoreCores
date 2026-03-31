@@ -8,8 +8,7 @@ canPlaceOn(tile, team, rotation){
     },
 //can this core replace another one
     canReplace(other){
-        if(other instanceof CoreBlock) return true;
-        return this.super$canReplace(other);
+        return false;
     },
 //is it possible to break the core
     canBreak(tile){
