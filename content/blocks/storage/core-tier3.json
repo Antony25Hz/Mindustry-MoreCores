@@ -14,7 +14,7 @@
     { "item": "plastanium","amount": 1000}
   ],
   "category": "effect",
-  "research": "tier-2-core",
+  "research": "core-tier2",
   "unitType": "alpha",
   "unitCapModifier": 32
 }
