@@ -1,0 +1,20 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Tier 3",
+  "description": "Accelerator core.",
+  "size": 6,
+  "researchCostMultiplier": 0.5,
+  "health": 5000,
+  "itemCapacity": 16000,
+  "requirements": [
+    { "item": "copper", "amount": 4000 },
+    { "item": "lead","amount": 4000},
+    { "item": "silicon","amount": 4000},
+    { "item": "titanium", "amount": 2000 },
+    { "item": "plastanium","amount": 1000}
+  ],
+  "category": "effect",
+  "research": "tier-2-core",
+  "unitType": "alpha",
+  "unitCapModifier": 32
+}

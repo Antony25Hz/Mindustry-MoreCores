@@ -1,0 +1,16 @@
+{
+  "name": "Vault Tier 3.",
+  "description": "Vault Tier 3.",
+  "type": "StorageBlock",
+  "size": 6,
+  "hasItems": true,
+  "health": 2000,
+  "requirements": [
+    { "item": "scrap","amount": 100}
+  ],
+  "itemCapacity": 4000,
+  "coreMerge": true,
+  "category": "effect",
+  "research": "tier-2-vault"
+
+}
