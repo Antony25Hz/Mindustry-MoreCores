@@ -17,5 +17,6 @@
   "category": "effect",
   "research": "super-core",
   "unitType": "alpha",
-  "unitCapModifier": 32
+  "unitCapModifier": 32,
+  "requiresCoreZone": false
 }

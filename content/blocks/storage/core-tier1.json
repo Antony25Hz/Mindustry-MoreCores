@@ -15,5 +15,6 @@
   "category": "effect",
   "research": "core-shard",
   "unitType": "alpha",
-  "unitCapModifier": 0
+  "unitCapModifier": 0,
+  "requiresCoreZone": false
 }

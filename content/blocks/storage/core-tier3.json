@@ -16,5 +16,6 @@
   "category": "effect",
   "research": "core-tier2",
   "unitType": "alpha",
-  "unitCapModifier": 32
+  "unitCapModifier": 32,
+  "requiresCoreZone": false
 }
