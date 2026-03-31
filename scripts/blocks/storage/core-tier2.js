@@ -1,5 +1,5 @@
 //name of object, type of your content, file-name
-const miniCore = extend(CoreBlock, "basecore", {
+const coreTier2 = extend(CoreBlock, "core-tier2", {
 	targetable: false,
 	buildCostMultiplier: 3,
 //is it possible to build a core regardless of another core, true or false.
